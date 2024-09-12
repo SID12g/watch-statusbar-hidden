@@ -45,6 +45,7 @@
 		5FFEB0772C93192E00006C0D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5FFEB0792C93192F00006C0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FFEB07C2C93192F00006C0D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5FFEB0872C9319A600006C0D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		5FFEB0632C93192D00006C0D = {
 			isa = PBXGroup;
 			children = (
+				5FFEB0872C9319A600006C0D /* README.md */,
 				5FFEB0742C93192E00006C0D /* WatchStatusBarHidden Watch App */,
 				5FFEB06B2C93192E00006C0D /* Products */,
 			);
